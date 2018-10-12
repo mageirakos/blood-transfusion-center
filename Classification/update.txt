@@ -1,0 +1,3 @@
+- Mainly SVM require Scaling of features ( try MinMaxScaler )
+- try SVM(kernel = 'rbf')
+- improve the structure on my notebook analysis
