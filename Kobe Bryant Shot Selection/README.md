@@ -1,3 +1,12 @@
+fix:
+
+add more visualizations besides a line plot
+-boxplot?
+
+train a model on the data
+-avoid what Kaggle says
+
+-----------------------------------------
 This data contains the location and circumstances of every field goal attempted by Kobe Bryant took during his 20-year career. Your task is to predict whether the basket went in (shot_made_flag).  
   
 We have removed 5000 of the shot_made_flags (represented as missing values in the csv file). These are the test set shots for which you must submit a prediction. You are provided a sample submission file with the correct shot_ids needed for a valid prediction.   
