@@ -1,10 +1,13 @@
-fix:
+to be done:
 
 add more visualizations besides a line plot
--boxplot?
+-boxplot instead of linplot?
+-very informative version of spacial plo using cufflinks and plotly?
+-
 
 train a model on the data
--avoid what Kaggle says
+-avoid what Kaggle says ( leakage )
+-
 
 -----------------------------------------
 This data contains the location and circumstances of every field goal attempted by Kobe Bryant took during his 20-year career. Your task is to predict whether the basket went in (shot_made_flag).  
