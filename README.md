@@ -1,6 +1,6 @@
 # blood-transfusion-center
 
-This project was done as practise  while reading the Supervised Learning chapter of "Introduction to Machine Learning with Python" book.  
+This project was done in order to practice the concepts learned while reading the supervised learning chapter of "Introduction to Machine Learning with Python" book by Andreas C. Müller.  
 data set used:  
 https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center  
 
